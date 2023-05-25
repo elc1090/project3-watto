@@ -1,6 +1,6 @@
 # Dislytegraphy
 
-![Screenshot do projeto](https://tba.png "Screenshot do projeto (TBD) ").
+![Screenshot do projeto (TBD)](https://tba.png "Screenshot do projeto").
 
 
 ## Descrição
@@ -9,7 +9,7 @@
 
 ## Deploy
 
-TBD
+https://elc1090.github.io/project3-watto/
 
 ## Desenvolvedor
 
