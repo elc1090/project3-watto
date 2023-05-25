@@ -1,4 +1,4 @@
-# Brawlrainbow
+# Dislytegraphy
 
 ![Screenshot do projeto](https://tba.png "Screenshot do projeto (TBD) ").
 
@@ -53,6 +53,8 @@ Das ideias iniciais do projeto, foram descartadas:
 
 > Proposta de álbum de cores obtidas para cada campeão no jogo brawlhalla. Descartado por que não é do interece manter o site atualizado, assim, perdendo seu propósito.
 
+- **Dislytegraphy**
+
 Definida, sem aprovação da professora (espero que ela goste), a criação de um álbum de coleção de Espers no jogo Dislyte. Mantém uma proposta semelhante à antiga Brawlrainbow, mas com projeção de se manter atualizado, podendo ser utilizado pela comunidade do jogo.
 
 ### Log
@@ -60,8 +62,11 @@ Definida, sem aprovação da professora (espero que ela goste), a criação de u
 - 05-09
 Definição do trabalho.
 
+- 05-22
+Desenvolvimento inicial. Abandono da ideia inicial pela inviabilidade e projeção de fracasso.
+
 - 05-23
-Criado o layout, html e css; Criado o javascript populador a partir de json (tratado localmente).
+Redefinição do trabalho. Criado o layout, html e css; Criado o javascript populador a partir de json (tratado localmente).
 
 - 05-24
 Início da criação do servidor integrador com o database.
