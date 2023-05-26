@@ -5,6 +5,7 @@
 ## Descrição
 
 Álbum de coleção de Espers do jogo Dislyte.
+O site recebe uma organização de 3x2 grupos, grava - através de um servidor - a organização em um banco de dados não relacional, e depois, o usuário pode carregar essa organização de volta.
 
 ## Deploy
 
