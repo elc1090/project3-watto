@@ -26,7 +26,8 @@ VS Code, repl.it
 
 ## Créditos
 
-- TBA
+- Image Source: [Dislyte Wiki](https://dislyte.fandom.com/wiki)
+- BG Source: [Background.jpg](https://rare-gallery.com/1360363-dislyte-4k-ultra-hd-wallpaper.html)
 
 ## Bastidores
 
@@ -53,7 +54,7 @@ Das ideias iniciais do projeto, foram descartadas:
 
 > Proposta de álbum de cores obtidas para cada campeão no jogo brawlhalla. Descartado por que não é do interece manter o site atualizado, assim, perdendo seu propósito.
 
-- **Dislytegraphy**
+- **Dislytography**
 
 Definida, sem aprovação da professora (espero que ela goste), a criação de um álbum de coleção de Espers no jogo Dislyte. Mantém uma proposta semelhante à antiga Brawlrainbow, mas com projeção de se manter atualizado, podendo ser utilizado pela comunidade do jogo.
 
