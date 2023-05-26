@@ -22,14 +22,11 @@ async function saveData() {
     groups: groups,
   };
   
-
   try {
-    // [** TO-DO **] This is not working!!!!!!!
     fetch('https://dislytedisco.treorai.repl.co', {
   method: 'POST',
   headers: {
-    'Content-Type': 'application/json',
-    "Access-Control-Allow-Origin": "*"
+    'Content-Type': 'text/plain'
   },
   body: JSON.stringify(data)
 })
@@ -48,5 +45,37 @@ async function saveData() {
     console.error('Error saving data to MongoDB:', error);
   }
 }
+
+async function loadData() {
+  try {
+    fetch('https://dislytedisco.treorai.repl.co', {
+      method: 'GET',
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    })
+      .then(response => {
+        if (response.ok) {
+          return response.json();
+        } else {
+          throw new Error('Error loading data');
+        }
+      })
+      .then(data => {
+        // Handle the retrieved data
+        console.log('Data loaded successfully:', data);
+      })
+      .catch(error => {
+        console.error('Error:', error);
+      });
+  } catch (error) {
+    console.error('Error loading data from MongoDB:', error);
+  }
+  
+}
+
+
 const saveButton = document.getElementById('save-button');
 saveButton.addEventListener('click', saveData);
+const loadButton = document.getElementById('load-button');
+loadButton.addEventListener('click', loadData);

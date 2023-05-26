@@ -72,7 +72,10 @@ Redefinição do trabalho. Criado o layout, html e css; Criado o javascript popu
 Início da criação do servidor integrador com o database.
 
 - 05-25
-TBD
+Desenvolvimento no servidor. Gravação em database concluída; Início do desenvolvimento de leitura do database.
+
+- 05-26
+TBA
 
 
 
