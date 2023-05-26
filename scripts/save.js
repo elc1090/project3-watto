@@ -50,7 +50,8 @@ async function saveData() {
 
 async function loadData() {
   try {
-    fetch('https://dislytedisco.treorai.repl.co', {
+    const key = '552'
+    fetch(`https://dislytedisco.treorai.repl.co?data=${encodeURIComponent(key)}`, {
       method: 'GET',
       headers: {
         'Content-Type': 'text/plain'
