@@ -1,6 +1,5 @@
-fetch('data.json')
-  .then(response => response.json())
-  .then(data => {
+export default function populate(data){
+    
     const groupElements = document.querySelectorAll('.items');
 
     groupElements.forEach((groupElement, index) => {
@@ -31,7 +30,4 @@ fetch('data.json')
         groupElement.appendChild(li);
       });
     });
-  })
-  .catch(error => {
-    console.error('Error:', error);
-  });
+}

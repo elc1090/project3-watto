@@ -1,3 +1,5 @@
+import populate from './load.js';
+
 async function saveData() {
   const groupElements = document.querySelectorAll('.items');
   const groups = [];
@@ -51,7 +53,7 @@ async function loadData() {
     fetch('https://dislytedisco.treorai.repl.co', {
       method: 'GET',
       headers: {
-        'Content-Type': 'application/json'
+        'Content-Type': 'text/plain'
       }
     })
       .then(response => {
@@ -62,8 +64,10 @@ async function loadData() {
         }
       })
       .then(data => {
-        // Handle the retrieved data
-        console.log('Data loaded successfully:', data);
+        console.log('Data loaded successfully:');
+        // POPULATE WEBSITE
+        populate(data);
+
       })
       .catch(error => {
         console.error('Error:', error);

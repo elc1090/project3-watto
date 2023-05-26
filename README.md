@@ -18,7 +18,7 @@ Wagner Spinato Chittó
 
 ## Tecnologias
 
-HTML, CSS, Javascript, Node.js
+HTML, CSS, Javascript, Node.js, Atlas MongoDB
 
 ## Ambiente de desenvolvimento
 
@@ -72,11 +72,10 @@ Redefinição do trabalho. Criado o layout, html e css; Criado o javascript popu
 Início da criação do servidor integrador com o database.
 
 - 05-25
-Desenvolvimento no servidor. Gravação em database concluída; Início do desenvolvimento de leitura do database.
+Implementados ambos metodos GET e POST no servidor. 100% funcionando graças a deus!
 
 - 05-26
-TBA
-
+Script populador; Finalização do layout.
 
 
 ---

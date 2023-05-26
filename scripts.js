@@ -54,8 +54,7 @@ function drop(event) {
       // Insert into new group
       targetGroupElement.appendChild(li);
 
-      // Save
-      // [** TO-DO **] Run the mongodb shenanigans here
+      // Save mongodb shenanigans automatic?
     }
 }
   

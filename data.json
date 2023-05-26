@@ -4,32 +4,25 @@
       "name": "group1",
       "items": [
         "./src/thumbnails/Li_Ling_avatar.webp",
-        "./src/thumbnails/Tang_Xuan_avatar.webp",
-        "./src/thumbnails/Lewis_avatar.webp",
-        "./src/thumbnails/Gabrielle_avatar.webp"
+        "./src/thumbnails/Tang_Xuan_avatar.webp"
       ]
     },
     {
       "name": "group2",
       "items": [
-        "./src/thumbnails/Mona_avatar.webp",
-        "./src/thumbnails/Jiang_Man_avatar.webp",
-        "./src/thumbnails/Jin-Hee_avatar.webp",
-        "./src/thumbnails/Koharu_avatar.webp"
+        "./src/thumbnails/Mona_avatar.webp"
       ]
     },
     {
       "name": "group3",
       "items": [
-        "./src/thumbnails/Brynn_avatar.webp",
-        "./src/thumbnails/Drew_avatar.webp",
-        "./src/thumbnails/Helena_avatar.webp",
-        "./src/thumbnails/Q_avatar.webp"
+        "./src/thumbnails/Brynn_avatar.webp"
       ]
     },
     {
       "name": "group4",
       "items": [
+        "./src/thumbnails/Lewis_avatar.webp",
         "./src/thumbnails/Ollie_avatar.webp",
         "./src/thumbnails/Zora_avatar.webp",
         "./src/thumbnails/Yamato_avatar.webp",
@@ -70,7 +63,8 @@
         "./src/thumbnails/Narmer_avatar.webp",
         "./src/thumbnails/Ophelia_avatar.webp",
         "./src/thumbnails/Camille_avatar.webp",
-        "./src/thumbnails/Lucas_avatar.webp"
+        "./src/thumbnails/Lucas_avatar.webp",
+        "./src/thumbnails/Gabrielle_avatar.webp"
       ]
     },
     {
@@ -119,7 +113,10 @@
         "./src/thumbnails/Nick_avatar.webp",
         "./src/thumbnails/Lin_Xiao_avatar.webp",
         "./src/thumbnails/Nicole_avatar.webp",
-        "./src/thumbnails/Li_Guang_avatar.webp"
+        "./src/thumbnails/Li_Guang_avatar.webp",
+        "./src/thumbnails/Jiang_Man_avatar.webp",
+        "./src/thumbnails/Jin-Hee_avatar.webp",
+        "./src/thumbnails/Koharu_avatar.webp"
       ]
     },
     {
@@ -142,7 +139,10 @@
         "./src/thumbnails/Leon_avatar.webp",
         "./src/thumbnails/Layla_avatar.webp",
         "./src/thumbnails/Chang_Pu_avatar.webp",
-        "./src/thumbnails/Ye_Suhua_avatar.webp"
+        "./src/thumbnails/Ye_Suhua_avatar.webp",
+        "./src/thumbnails/Drew_avatar.webp",
+        "./src/thumbnails/Helena_avatar.webp",
+        "./src/thumbnails/Q_avatar.webp"
       ]
     }
   ]
