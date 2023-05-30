@@ -84,7 +84,5 @@ Das ideias iniciais do projeto, foram descartadas:
     - Finalização do layout;
     - ajustes finais no css;
 
-# src para apresentação
-https://docs.google.com/spreadsheets/d/1hhcoC29SSFGD7cHHO3YjRmq7o_bYxzEoDyLerrl3XwQ/edit?usp=sharing
 ---
 Projeto entregue para a disciplina de [Desenvolvimento de Software para a Web](http://github.com/andreainfufsm/elc1090-2023a) em 2023a
